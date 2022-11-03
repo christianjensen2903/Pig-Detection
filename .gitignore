@@ -1,0 +1,8 @@
+
+Google-Image-Scraper-master/photos
+wandb
+*.bin
+*.jpg
+*.png
+data
+*.pt
